@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Keys_Onboarding.Test.Sprint+Tenant.PO_SearchAProperty" /><Add Test="Keys_Onboarding.Test.Sprint+Tenant.PO_AddAProperty" /><Add Test="Keys_Onboarding.Test.Sprint+Tenant.PO_AddAUnoccupiedProperty" /><Add Test="Keys_Onboarding.Test.Sprint+Tenant.PO_ListRental" /><Add Test="Keys_Onboarding.Test.Sprint+Tenant.PO_AddNewTenant" /></Playlist>
